@@ -3,6 +3,6 @@
 ## Test1
 ### Third Heading
 
-*First
-*Second
-*Third
+* First
+* Second
+* Third
